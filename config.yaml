@@ -1,0 +1,16 @@
+version: v1.0
+
+connections:
+  - sourcePort:
+      networkType: tcp
+      portNumber: 2222
+    dstPort:
+      networkType: tcp
+      portNumber: 22
+
+  - sourcePort:
+      networkType: tcp
+      portNumber: 5555
+    dstPort:
+      networkType: tcp
+      portNumber: 22
