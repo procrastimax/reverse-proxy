@@ -13,4 +13,4 @@ connections:
       portNumber: 5555
     dstPort:
       networkType: tcp
-      portNumber: 22
+      portNumber: 8080
