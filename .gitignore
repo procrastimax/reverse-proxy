@@ -1,0 +1,4 @@
+# ignore all key related files
+**.pem
+**.crt
+**.key
